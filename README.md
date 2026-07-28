@@ -63,3 +63,27 @@
 <div align="center">
   <p>⭐ If you like my projects, consider giving them a star!</p>
 </div>
+<div align="center" style="background: rgba(20, 20, 30, 0.8); backdrop-filter: blur(10px); border: 1px solid rgba(100, 200, 255, 0.3); padding: 40px; border-radius: 20px; margin: 30px 0;">
+  
+  <h2 style="color: #61DAFB; font-size: 28px; margin-bottom: 20px;">📊 Development Dashboard</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+    
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; color: white;">
+      <h4 style="margin: 0; font-size: 14px; opacity: 0.8;">Total Commits</h4>
+      <p style="margin: 10px 0; font-size: 32px; font-weight: bold;">314+</p>
+    </div>
+
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; color: white;">
+      <h4 style="margin: 0; font-size: 14px; opacity: 0.8;">Repositories</h4>
+      <p style="margin: 10px 0; font-size: 32px; font-weight: bold;">8+</p>
+    </div>
+
+    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; color: white;">
+      <h4 style="margin: 0; font-size: 14px; opacity: 0.8;">Total Followers</h4>
+      <p style="margin: 10px 0; font-size: 32px; font-weight: bold;">460+</p>
+    </div>
+
+  </div>
+
+</div>
